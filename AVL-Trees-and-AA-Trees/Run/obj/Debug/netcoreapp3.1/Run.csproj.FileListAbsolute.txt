@@ -1,0 +1,17 @@
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\Run\bin\Debug\netcoreapp3.1\Run.exe
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\Run\bin\Debug\netcoreapp3.1\Run.deps.json
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\Run\bin\Debug\netcoreapp3.1\Run.runtimeconfig.json
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\Run\bin\Debug\netcoreapp3.1\Run.runtimeconfig.dev.json
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\Run\bin\Debug\netcoreapp3.1\Run.dll
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\Run\bin\Debug\netcoreapp3.1\Run.pdb
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\Run\bin\Debug\netcoreapp3.1\AA-Tree.dll
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\Run\bin\Debug\netcoreapp3.1\AA-Tree.pdb
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\Run\obj\Debug\netcoreapp3.1\Run.csproj.AssemblyReference.cache
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\Run\obj\Debug\netcoreapp3.1\Run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\Run\obj\Debug\netcoreapp3.1\Run.AssemblyInfoInputs.cache
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\Run\obj\Debug\netcoreapp3.1\Run.AssemblyInfo.cs
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\Run\obj\Debug\netcoreapp3.1\Run.csproj.CoreCompileInputs.cache
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\Run\obj\Debug\netcoreapp3.1\Run.csproj.CopyComplete
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\Run\obj\Debug\netcoreapp3.1\Run.dll
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\Run\obj\Debug\netcoreapp3.1\Run.pdb
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\Run\obj\Debug\netcoreapp3.1\Run.genruntimeconfig.cache

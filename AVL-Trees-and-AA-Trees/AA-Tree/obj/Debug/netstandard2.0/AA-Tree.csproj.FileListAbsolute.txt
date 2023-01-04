@@ -1,0 +1,10 @@
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\AA-Tree\bin\Debug\netstandard2.0\AA-Tree.deps.json
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\AA-Tree\bin\Debug\netstandard2.0\AA-Tree.dll
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\AA-Tree\bin\Debug\netstandard2.0\AA-Tree.pdb
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\AA-Tree\obj\Debug\netstandard2.0\AA-Tree.csproj.AssemblyReference.cache
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\AA-Tree\obj\Debug\netstandard2.0\AA-Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\AA-Tree\obj\Debug\netstandard2.0\AA-Tree.AssemblyInfoInputs.cache
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\AA-Tree\obj\Debug\netstandard2.0\AA-Tree.AssemblyInfo.cs
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\AA-Tree\obj\Debug\netstandard2.0\AA-Tree.csproj.CoreCompileInputs.cache
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\AA-Tree\obj\Debug\netstandard2.0\AA-Tree.dll
+C:\Users\AW\Documents\GitHub\DataStructures\AVL-Trees-and-AA-Trees\AA-Tree\obj\Debug\netstandard2.0\AA-Tree.pdb
