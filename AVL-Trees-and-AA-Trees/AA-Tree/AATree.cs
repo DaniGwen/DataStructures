@@ -10,11 +10,13 @@ namespace AA_Tree
             public Node(T element)
             {
                 this.Value = element;
+                this.Level = 1;
             }
 
             public T Value { get; set; }
             public Node Right { get; set; }
             public Node Left { get; set; }
+            public int Level { get; set; }
         }
 
         private Node root;
@@ -34,8 +36,74 @@ namespace AA_Tree
 
         public void Insert(T element)
         {
-            throw new NotImplementedException();
+            this.root = this.Insert(this.root, element);
         }
+        private Node Insert(Node node,T element)
+        {
+            if (node == null)
+            {
+                return new Node(element);
+            }
+
+            if (element.CompareTo(node.Value) < 0)
+            {
+                node.Left = this.Insert(node.Left, element);
+            }
+            else
+            {
+                node.Right = this.Insert(node.Right, element);
+            }
+
+            node = Skew(node);
+            node = Split(node);
+
+            return node;
+        }
+
+        private Node Split(Node node)
+        {
+            if (node.Right == null || node.Right.Right == null)
+            {
+                return node;
+            }
+
+            if (node.Right.Right.Level == node.Level)
+            {
+                node = RotateRight(node);
+                node.Level++; 
+            }
+
+            return node;
+        }
+
+        private Node RotateRight(Node node)
+        {
+            var temp = node.Right;
+            node.Right = temp.Left;
+            temp.Left = node;
+
+            return temp;
+        }
+
+        private Node Skew(Node node)
+        {
+            if (node.Left != null && node.Level == node.Left.Level)
+            {
+                node = RotateLeft(node);
+            }
+
+            return node;
+        }
+
+        private Node RotateLeft(Node node)
+        {
+            var temp = node.Left;
+            node.Left = temp.Right;
+            temp.Right = node;
+
+            return temp;
+        }
+
 
         public bool Contains(T element)
         {
